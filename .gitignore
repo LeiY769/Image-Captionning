@@ -3,4 +3,4 @@
 *.log
 *.sh
 *.zip
-
+data/flickr30k/dataset_flickr30k.json
